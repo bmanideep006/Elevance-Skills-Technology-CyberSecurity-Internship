@@ -127,6 +127,3 @@ The repository contains the reports documenting all six completed internship tas
 ## Objective
 
 The primary objective of this internship was to develop practical exposure to cybersecurity tools and security operations while strengthening my understanding of threat detection, investigation, monitoring, and defensive security techniques.
-
-threat detection through hands-on projects and internships.
-
