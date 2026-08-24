@@ -18,7 +18,6 @@ The internship provided hands-on exposure to security monitoring, network traffi
 * Worked with **Elastic Security** and **Kibana** for security monitoring.
 * Created and tested detection/correlation rules for different attack techniques.
 * Worked on detection scenarios including:
-
   * Credential Stuffing
   * DNS Tunneling
   * PowerShell-based attacks
@@ -34,52 +33,71 @@ The internship provided hands-on exposure to security monitoring, network traffi
 * Used **MISP** for threat intelligence.
 * Applied **YARA** and **Sigma** concepts for threat detection.
 
-### Task 4 – Security Monitoring and SIEM Dashboard
+### Task 4 – HawkEye Lab Investigation
 
-* Worked on security event monitoring and visualization.
-* Designed a SIEM-based dashboard for monitoring important security events.
-* Focused on events such as brute-force activity, privilege escalation, and potential data exfiltration.
-* Practiced analyzing security information through dashboards and queries.
+Solved the HawkEye Blue Team Lab on CyberDefenders and performed detailed analysis of the provided data.
 
-### Task 5 – Cybersecurity Analysis and Detection
+- Investigated the security incident.
+- Analyzed network traffic and packet captures.
+- Identified suspicious activities and relevant indicators.
+- Documented the investigation process and findings.
+- Recorded the tools and techniques used during the analysis.
 
-* Applied cybersecurity concepts to practical security scenarios.
-* Worked with security monitoring and threat detection techniques.
-* Analyzed security events and documented observations and findings.
-* Practiced identifying suspicious activity and potential threats.
+### Task 5 – Brutus Lab – SSH Brute Force Investigation
 
-### Task 6 – Final Cybersecurity Project Documentation
+Worked on the Brutus Lab from Hack The Box, focusing on the investigation of SSH brute-force activity.
 
-* Consolidated the practical work completed during the internship.
-* Documented methodologies, tools, observations, findings, and outcomes.
-* Prepared detailed project documentation for all completed tasks.
+- Analyzed authentication-related security events.
+- Investigated brute-force attack patterns.
+- Identified suspicious login attempts and attacker activity.
+- Documented the investigation process and findings.
+
+### Task 6 – Custom SIEM Security Dashboard
+
+Designed and implemented a custom SIEM dashboard to visualize important security events.
+
+The dashboard focused on monitoring:
+- Brute-force attacks
+- Privilege escalation attempts
+- Data exfiltration attempts
+- Other suspicious security events
+
 
 ## Tools & Technologies
 
-### Security Monitoring & SIEM
+### Task 1 – HawkEye Lab: Red Team, Blue Team & Purple Team
+- CyberDefenders
+- Kali Linux
+- Wireshark
 
-* **Elastic Security**
-* **ELK / Kibana**
-* **Security Onion**
+### Task 2 – SIEM Correlation Rules
+- Elastic Security
+- ELK Stack
+- Kibana
 
-### Network & Security Analysis
+### Task 3 – Multi-Stage APT Attack Simulation
+- Security Onion
+- Kali Linux
+- Kibana
+- TheHive
+- Cortex
+- MISP
+- YARA
+- Sigma
 
-* **Wireshark**
-* **Kali Linux**
-* Network traffic and packet analysis techniques
+### Task 4 – HawkEye Lab Investigation
+- CyberDefenders
+- Kali Linux
+- Wireshark
 
-### Incident Response & Threat Intelligence
+### Task 5 – Brutus Lab: SSH Brute Force
+- Hack The Box
+- Kali Linux
 
-* **TheHive**
-* **Cortex**
-* **MISP**
-
-### Detection & Threat Hunting
-
-* **YARA**
-* **Sigma**
-* Security detection and correlation rules
-* Log and event analysis
+### Task 6 – Custom SIEM Dashboard
+- Elastic Security
+- ELK Stack
+- Kibana
 
 ## Key Areas of Learning
 
