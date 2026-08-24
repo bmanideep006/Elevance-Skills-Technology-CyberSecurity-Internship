@@ -73,12 +73,10 @@ The dashboard focused on monitoring:
 ### Task 2 – SIEM Correlation Rules
 - Elastic Security
 - ELK Stack
-- Kibana
 
 ### Task 3 – Multi-Stage APT Attack Simulation
 - Security Onion
 - Kali Linux
-- Kibana
 - TheHive
 - Cortex
 - MISP
@@ -97,7 +95,6 @@ The dashboard focused on monitoring:
 ### Task 6 – Custom SIEM Dashboard
 - Elastic Security
 - ELK Stack
-- Kibana
 
 ## Key Areas of Learning
 
